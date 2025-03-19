@@ -1,0 +1,3782 @@
+{
+  "statusCode": 200,
+  "content": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "",
+      "phone": "111",
+      "birthday": "0",
+      "avatar": "http://sc04.alicdn.com/kf/Hc3e61591078043e09dba7808a6be5d21n.jpg",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": [
+        "string"
+      ]
+    },
+    {
+      "id": 6571,
+      "name": "Thanh Nha",
+      "email": "thanhnha.k13@gmail.com",
+      "password": "",
+      "phone": "2342424",
+      "birthday": "2024-12-09",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "CSS",
+        "React"
+      ],
+      "certification": [
+        "HTML",
+        "alw"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6577,
+      "name": "Darrel Harmondsds",
+      "email": "taxysaxo@mailinator.com",
+      "password": "",
+      "phone": "+1 (318) 518-6276",
+      "birthday": "2025-01-01",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Pariatur."
+      ],
+      "certification": [
+        "zxczxcz"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6581,
+      "name": "Ferdinand Sutton",
+      "email": "mocegunel@mailinator.com",
+      "password": "",
+      "phone": "242442424232323",
+      "birthday": "2025-02-08",
+      "avatar": "",
+      "gender": true,
+      "role": "Admin",
+      "skill": [
+        "6",
+        "7",
+        "8",
+        "4",
+        "5"
+      ],
+      "certification": [
+        "Nisi",
+        "aa"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6584,
+      "name": "sulzar",
+      "email": "bruh@gmail.com",
+      "password": "",
+      "phone": "0901468145",
+      "birthday": "1999-10-31",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "zxcxzc"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6587,
+      "name": "Quang Khải",
+      "email": "njceshort1@gmail.com",
+      "password": "",
+      "phone": "2423424",
+      "birthday": "2025-01-08",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6591,
+      "name": "nha thanh",
+      "email": "nhathanh.ntn@gmail.com",
+      "password": "",
+      "phone": "234werwer",
+      "birthday": "2024-12-24",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [],
+      "certification": [
+        "zxczxc"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6592,
+      "name": "nha thanh",
+      "email": "nhathanh.ntn1@gmail.com",
+      "password": "",
+      "phone": "234242234",
+      "birthday": "2025-01-01",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "FE",
+        "BE"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6593,
+      "name": "Cairo Copeland",
+      "email": "tazipyjo@mailinator.com",
+      "password": "",
+      "phone": "0332323233",
+      "birthday": "06-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "user",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6594,
+      "name": "Gil Neal",
+      "email": "kirinB@gmail.com",
+      "password": "",
+      "phone": "0332452322",
+      "birthday": "08-03-1997",
+      "avatar": "",
+      "gender": true,
+      "role": "user",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6596,
+      "name": "Jsnn",
+      "email": "abc@gmail.com",
+      "password": "",
+      "phone": "ewrrwrwrwerưerwer",
+      "birthday": "2024-12-10",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6597,
+      "name": "Minh",
+      "email": "hoadambut1@gmail.com",
+      "password": "",
+      "phone": "0961791703",
+      "birthday": "2024-10-11",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/21-11-2024-05-22-52-99.jpg",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6598,
+      "name": "Minh",
+      "email": "mih.nguyenhai99@gmail.com",
+      "password": "",
+      "phone": "0961791703",
+      "birthday": "2024-11-05",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/21-11-2024-12-22-02-2.jpg",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6599,
+      "name": "Hung",
+      "email": "voviethung.hup@gmail.com",
+      "password": "",
+      "phone": "0963573500",
+      "birthday": "1988-10-21",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/02-12-2024-10-49-55-logo.png",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6600,
+      "name": "Test",
+      "email": "hello123321@gmail.com",
+      "password": "",
+      "phone": "1234567890",
+      "birthday": "1111-11-11",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/21-11-2024-03-23-08-features-3.jpg",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6606,
+      "name": "Giacomo Rodgers",
+      "email": "hebatotiji@mailinator.com",
+      "password": "",
+      "phone": "+1 (624) 947-7293",
+      "birthday": "09-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "Elit,",
+        "3",
+        "6"
+      ],
+      "certification": [
+        "Culpa,"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6607,
+      "name": "Jelani Kidd",
+      "email": "mycubak@mailinator.com",
+      "password": "",
+      "phone": "+1 (256) 643-6216",
+      "birthday": "15-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [
+        "Aliquam",
+        "4",
+        "6",
+        "8",
+        "3"
+      ],
+      "certification": [
+        "Commodi"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6610,
+      "name": "tuấn nguyễn",
+      "email": "tuan1@gmail.com",
+      "password": "",
+      "phone": "+1 (756) 868-5838",
+      "birthday": "15-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "6",
+        "3",
+        "1",
+        "4",
+        "5",
+        "2"
+      ],
+      "certification": [
+        "ăeawea"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6611,
+      "name": "Falcon12",
+      "email": "bruh33@gmail.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "1999-10-30T17:00:00.000Z",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6618,
+      "name": "string",
+      "email": "trancyvo98.1@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6619,
+      "name": "adwadaw",
+      "email": "njceshort2@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6620,
+      "name": "nam",
+      "email": "nam@gmail.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "26/06/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6621,
+      "name": "test",
+      "email": "cuku@mailinator.com",
+      "password": "",
+      "phone": "0396244169",
+      "birthday": "1996-01-21",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "JavaScript",
+        "Python",
+        "Java"
+      ],
+      "certification": [
+        "AWS"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6623,
+      "name": "",
+      "email": "wubi@mailinator.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6624,
+      "name": "",
+      "email": "hugo@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6626,
+      "name": "Eugenia Sykes",
+      "email": "wykiceloc@mailinator.com",
+      "password": "",
+      "phone": "+1 (378) 701-8938",
+      "birthday": "08-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "4"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6627,
+      "name": "Eugenia Sykes",
+      "email": "hahasdsdsd@mailinator.com",
+      "password": "",
+      "phone": "+1 (378) 701-8938",
+      "birthday": "08-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "4"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6628,
+      "name": "thu",
+      "email": "thu@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "8"
+      ],
+      "certification": [
+        "q"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6629,
+      "name": "Lucian Russo",
+      "email": "pacofu@mailinator.com",
+      "password": "",
+      "phone": "+1 (408) 712-7181",
+      "birthday": "26-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "7"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6630,
+      "name": "Merrill Kirkland",
+      "email": "vobybyt@mailinator.com",
+      "password": "",
+      "phone": "+1 (152) 451-2309",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Distinctio."
+      ],
+      "certification": [
+        "Provident,"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6631,
+      "name": "admin121",
+      "email": "lliia@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/08-01-2025-02-45-23-facebook-googlechrome2025-01-0614-49-26-ezgif.com-optimize.gif",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6632,
+      "name": "Nguyễn Văn A ",
+      "email": "drd33t@gmail.com",
+      "password": "",
+      "phone": "0813336751",
+      "birthday": "09-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6633,
+      "name": "Nguyễn Văn A a",
+      "email": "drt87897@gmail.com",
+      "password": "",
+      "phone": "0813336752",
+      "birthday": "2024-11-23",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/26-11-2024-03-09-19-guide-item3.png",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "C++",
+        "SQL",
+        "HTML",
+        "aws"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6634,
+      "name": "Nguyễn Văn A ",
+      "email": "drtyy@gmail.com",
+      "password": "",
+      "phone": "0813336751",
+      "birthday": "20-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6635,
+      "name": "Nguyễn Văn A ",
+      "email": "drttte@gmail.com",
+      "password": "",
+      "phone": "0813336758",
+      "birthday": "15-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6636,
+      "name": "Nguyễn Văn Abc",
+      "email": "drtaa@gmail.com",
+      "password": "",
+      "phone": "0813336758",
+      "birthday": "2024-11-12",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/26-11-2024-03-30-28-guide-item2.png",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "SQL",
+        "C++",
+        "Java"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6637,
+      "name": "Calvin Ellison",
+      "email": "jeguli@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "02-11-24",
+      "avatar": "",
+      "gender": false,
+      "role": "User",
+      "skill": [
+        "7",
+        "4",
+        "5"
+      ],
+      "certification": [
+        "abc",
+        "asd"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6638,
+      "name": "Tatum Chen",
+      "email": "luvypa@mailinator.com",
+      "password": "",
+      "phone": "+1 (915) 934-1845",
+      "birthday": "24-11-24",
+      "avatar": "",
+      "gender": false,
+      "role": "Admin",
+      "skill": [
+        "Repellendus.",
+        "7",
+        "3",
+        "2"
+      ],
+      "certification": [
+        "Quam",
+        "aa"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6639,
+      "name": "Ryder Kim",
+      "email": "vibihef@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "24-11-24",
+      "avatar": "",
+      "gender": true,
+      "role": "Admin",
+      "skill": [
+        "5",
+        "3",
+        "2"
+      ],
+      "certification": [
+        "Proident,",
+        "aa"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6641,
+      "name": "thu",
+      "email": "thu2@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [
+        "5"
+      ],
+      "certification": [
+        "cyber"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6642,
+      "name": "thu",
+      "email": "thu3@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "06-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "1"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6643,
+      "name": "Nolan Davidson",
+      "email": "benygasit@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "01-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "In"
+      ],
+      "certification": [
+        "Autem"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6644,
+      "name": "Nash Dean",
+      "email": "soqesov@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "01-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Vitae"
+      ],
+      "certification": [
+        "Vel"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6645,
+      "name": "Quinlan Herring",
+      "email": "rafutar@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "04-11-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "1"
+      ],
+      "certification": [
+        "Beatae"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6646,
+      "name": "Devin Fleming",
+      "email": "haneqoh@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "12-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Enim"
+      ],
+      "certification": [
+        "Aut"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6647,
+      "name": "Kirk Lyons",
+      "email": "zyhabi@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "06-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Temporibus"
+      ],
+      "certification": [
+        "Sunt"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6648,
+      "name": "Clementine Jacobs",
+      "email": "nomek@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Et"
+      ],
+      "certification": [
+        "Ut"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6649,
+      "name": "Brady Guerra",
+      "email": "qybew@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "06-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Do"
+      ],
+      "certification": [
+        "f"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6650,
+      "name": "Henry Berry",
+      "email": "lerasa@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "14-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Est,"
+      ],
+      "certification": [
+        "Enim"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6651,
+      "name": "Sybil Mueller",
+      "email": "moxosuhul@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Ad"
+      ],
+      "certification": [
+        "Libero"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6652,
+      "name": "thu4",
+      "email": "thu4@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "05-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "8"
+      ],
+      "certification": [
+        "f"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6653,
+      "name": "thu5",
+      "email": "thu5@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "12-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "7"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6654,
+      "name": "string",
+      "email": "thu6@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "string",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6655,
+      "name": "A Long",
+      "email": "jateb@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "04-11-24",
+      "avatar": "",
+      "gender": true,
+      "role": "User",
+      "skill": [
+        "3",
+        "5",
+        "6"
+      ],
+      "certification": [
+        "Exercitation",
+        "aa"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6656,
+      "name": "ALong",
+      "email": "aLong@gmail.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "29-11-24",
+      "avatar": "",
+      "gender": false,
+      "role": "Admin",
+      "skill": [
+        "6",
+        "3",
+        "2"
+      ],
+      "certification": [
+        "aaa",
+        "vvv"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6657,
+      "name": "Calista Hood",
+      "email": "zudovotanu@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "21-11-24",
+      "avatar": "",
+      "gender": true,
+      "role": "Admin",
+      "skill": [
+        "5",
+        "3",
+        "2"
+      ],
+      "certification": [
+        "Sed",
+        "sd"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6658,
+      "name": "Võ Viết Hùng",
+      "email": "voviethung.hup@enlie.com",
+      "password": "",
+      "phone": "0963573588",
+      "birthday": "1995-06-30",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6659,
+      "name": "Teoadmin",
+      "email": "teo@gmail.com",
+      "password": "",
+      "phone": "0354268795",
+      "birthday": "28-11-24",
+      "avatar": "",
+      "gender": false,
+      "role": "Admin",
+      "skill": [
+        "6",
+        "3",
+        "5"
+      ],
+      "certification": [
+        "ád",
+        "ádas"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6660,
+      "name": "nhan",
+      "email": "nhan@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "06-11-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "2"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6661,
+      "name": "Võ Viết Hùng",
+      "email": "voviethung.enlie@gmail.com",
+      "password": "",
+      "phone": "0963573588",
+      "birthday": "1987-01-14",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/30-11-2024-05-21-22-logo.png",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6662,
+      "name": "string",
+      "email": "string",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "string",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6663,
+      "name": "Hung",
+      "email": "123@gmail.com",
+      "password": "",
+      "phone": "0904845738",
+      "birthday": "2024-12-10",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6664,
+      "name": "prodancer",
+      "email": "shermorri123@gmail.com",
+      "password": "",
+      "phone": "07459349395359",
+      "birthday": "2024-12-20T17:00:00.000Z",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6665,
+      "name": "Willow Abbott",
+      "email": "tuan12@gmail.com",
+      "password": "",
+      "phone": "+1 (507) 256-5596",
+      "birthday": "10-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        ""
+      ],
+      "certification": [
+        ""
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6666,
+      "name": "thu8",
+      "email": "thu8@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "12-12-2023",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "7"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6667,
+      "name": "thu9",
+      "email": "thu9@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "2024-12-31",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "3"
+      ],
+      "certification": [
+        "s"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6668,
+      "name": "thu10",
+      "email": "thu10@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "01-12-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "1"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6669,
+      "name": "Emerson Kirkland",
+      "email": "wirynesut@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "19-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "6",
+        "5"
+      ],
+      "certification": [
+        "In"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6670,
+      "name": "Eden Velazquez",
+      "email": "maxuxebi@mailinator.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "01-12-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "1"
+      ],
+      "certification": [
+        "g"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6671,
+      "name": "thu112",
+      "email": "thu11@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "02-12-2024",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "2"
+      ],
+      "certification": [
+        "a"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6672,
+      "name": "Elizabeth Vargas",
+      "email": "wimam@mailinator.com",
+      "password": "",
+      "phone": "+1 (762) 574-6937",
+      "birthday": "05-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "1",
+        "2"
+      ],
+      "certification": [
+        "Tenetur"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6673,
+      "name": "Lý Minh Nhân",
+      "email": "kobkirin@gmail.com",
+      "password": "",
+      "phone": "0937123123",
+      "birthday": "12-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6674,
+      "name": "poxo@mailinator.com",
+      "email": "fibytotiw@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "12-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6675,
+      "name": "Ria Dixon",
+      "email": "fovyxu@mailinator.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "12-12-2024",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "1",
+        "2",
+        "3"
+      ],
+      "certification": [
+        "aa",
+        "bb"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6676,
+      "name": "Phát",
+      "email": "a@gmail.com",
+      "password": "",
+      "phone": "0369753861",
+      "birthday": "2004-12-02T17:00:00.000Z",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "",
+        "34",
+        "36",
+        "38"
+      ],
+      "certification": [
+        ""
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6677,
+      "name": "Phát",
+      "email": "aaa@gmail.com",
+      "password": "",
+      "phone": "0369753861",
+      "birthday": "03-12-2004",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "2",
+        "5",
+        "7"
+      ],
+      "certification": [
+        "hay"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6678,
+      "name": "letrunghau",
+      "email": "hau17131203@gmail.com",
+      "password": "",
+      "phone": "0977917160",
+      "birthday": "2025-01-10",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6682,
+      "name": "eokayti",
+      "email": "eokayti@gmail.com",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "12-02-2000",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "1",
+        "2",
+        "7",
+        "8"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6683,
+      "name": "Teo2",
+      "email": "Teo2@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6685,
+      "name": "teo123",
+      "email": "teo21@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6686,
+      "name": "string",
+      "email": "string@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "string",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6687,
+      "name": "hau@zalo.com",
+      "email": "hau@zalo.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "string",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6688,
+      "name": "haule",
+      "email": "haudev@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/13-12-2024-02-34-08-screenshot-2024-09-15-193919.png",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6689,
+      "name": "stringkkjkk",
+      "email": "stringkkkkk",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6690,
+      "name": "stringkkjkk",
+      "email": "stringkkkkddddk",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6691,
+      "name": "le trung hau",
+      "email": "hau@gmail.com",
+      "password": "",
+      "phone": "0977917160",
+      "birthday": "2024-12-26",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6692,
+      "name": "le trung hau",
+      "email": "hauga@gmail.com",
+      "password": "",
+      "phone": "0977917160",
+      "birthday": "string",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/13-12-2024-01-46-07-screenshot-2024-04-23-103019.png",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 6693,
+      "name": "le trung hau",
+      "email": "admin@order.comvnvnvn",
+      "password": "",
+      "phone": "0909090909",
+      "birthday": "1/1/1990",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6694,
+      "name": "Minh Le viet",
+      "email": "boylovegirl@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": false,
+      "role": "12313",
+      "skill": [
+        "123123"
+      ],
+      "certification": [
+        "13123"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6695,
+      "name": "Minh Le viet",
+      "email": "minh12345123@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "12313",
+      "skill": [
+        "123123"
+      ],
+      "certification": [
+        "13123"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6696,
+      "name": "Minh Le viet",
+      "email": "trietminh@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [
+        "123123"
+      ],
+      "certification": [
+        "13123"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6697,
+      "name": "",
+      "email": "levietminh@gmail.com",
+      "password": "",
+      "phone": "456456",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "456456",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6698,
+      "name": "rreeg",
+      "email": "thuan@gmail.com",
+      "password": "",
+      "phone": "456456",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "456456",
+      "skill": [
+        "egrrege"
+      ],
+      "certification": [
+        "ẻgerg"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6699,
+      "name": "rreeg",
+      "email": "prodancer@gmail.com",
+      "password": "",
+      "phone": "2342424",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "456456",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6700,
+      "name": "e",
+      "email": "e@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6701,
+      "name": "22",
+      "email": "king@gmail.com",
+      "password": "",
+      "phone": "243242",
+      "birthday": "2024-12-10",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6702,
+      "name": "rreeg",
+      "email": "adfaf@gmail.com",
+      "password": "",
+      "phone": "23424",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "23424",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6703,
+      "name": "rreeg",
+      "email": "âffa@gmail.com",
+      "password": "",
+      "phone": "24234",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6704,
+      "name": "ưerwr",
+      "email": "ewwewr@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwer",
+      "skill": [
+        "ưerwr"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6705,
+      "name": "ggdgf",
+      "email": "231313@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "dgdg",
+      "skill": [
+        "egrrege"
+      ],
+      "certification": [
+        "êr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6706,
+      "name": "ưerwr",
+      "email": "ưerwrwr@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": [
+        "ưerwr"
+      ],
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6707,
+      "name": "madfadfafd",
+      "email": "ẻwewr@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-09",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": [
+        "egrrege"
+      ],
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6708,
+      "name": "madfadfafd",
+      "email": "4534534535@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": [
+        "egrrege"
+      ],
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6709,
+      "name": "ưefwfwf",
+      "email": "ểqwerqerqer@gmail.com",
+      "password": "",
+      "phone": "456456",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": false,
+      "role": "rưer",
+      "skill": [
+        "ưerwr"
+      ],
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 6710,
+      "name": "ưefwfwf",
+      "email": "3453453535@gmail.com",
+      "password": "",
+      "phone": "456456",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "rưer",
+      "skill": [
+        "ưerwr"
+      ],
+      "certification": [
+        "4535"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6711,
+      "name": "madfadfafd",
+      "email": "èwqfqfqf@gmail.",
+      "password": "",
+      "phone": "342424",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": [
+        "egrrege"
+      ],
+      "certification": [
+        "ẻgerg"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6712,
+      "name": "12313",
+      "email": "ưerwrwrw@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-12",
+      "avatar": "",
+      "gender": true,
+      "role": "12313",
+      "skill": [
+        "132123"
+      ],
+      "certification": [
+        "123123"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6713,
+      "name": "ggdgf",
+      "email": "ưerwerwer@gmail.com",
+      "password": "",
+      "phone": "23424",
+      "birthday": "2025-01-02",
+      "avatar": "",
+      "gender": true,
+      "role": "242432",
+      "skill": [
+        "43535"
+      ],
+      "certification": [
+        "34535"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 6714,
+      "name": "3424",
+      "email": "dgfdfgdg@gmail.com",
+      "password": "",
+      "phone": "24234",
+      "birthday": "2024-12-05",
+      "avatar": "",
+      "gender": true,
+      "role": "24234",
+      "skill": [
+        "23424"
+      ],
+      "certification": [
+        "234234"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7662,
+      "name": "qetwertwt",
+      "email": "egwegwg@gmail.com",
+      "password": "",
+      "phone": "5345354",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "ưtrwt",
+      "skill": [
+        "ưtrwt"
+      ],
+      "certification": [
+        "ủtwrt"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7663,
+      "name": "3435",
+      "email": "1431414143@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": true,
+      "role": "3434",
+      "skill": [
+        "3434"
+      ],
+      "certification": [
+        "3434"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7664,
+      "name": "23r2r",
+      "email": "234242424@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "2r2r",
+      "skill": [
+        "2r2r3"
+      ],
+      "certification": [
+        "2r32r"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7665,
+      "name": "24ergg",
+      "email": "2342424@gmail.com",
+      "password": "",
+      "phone": "2424",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "2424",
+      "skill": [
+        "23424"
+      ],
+      "certification": [
+        "23424"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7666,
+      "name": "le viet minh",
+      "email": "egrgeg@gmail.com",
+      "password": "",
+      "phone": "2525",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "34535",
+      "skill": [
+        "345345"
+      ],
+      "certification": [
+        "34535"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7667,
+      "name": "le viet minh",
+      "email": "2r2r2r2r@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-03",
+      "avatar": "",
+      "gender": true,
+      "role": "2r2r",
+      "skill": [
+        "2r2r"
+      ],
+      "certification": [
+        "2r2r"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7668,
+      "name": "Minh Le viet",
+      "email": "ffwfwfwfe@gmail.com",
+      "password": "",
+      "phone": "0788665093",
+      "birthday": "",
+      "avatar": "",
+      "gender": true,
+      "role": "234234",
+      "skill": [
+        "24234"
+      ],
+      "certification": [
+        "23424"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7669,
+      "name": "wre",
+      "email": "242342424@gmail.com",
+      "password": "",
+      "phone": "23424",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "3424",
+      "skill": [
+        "24324"
+      ],
+      "certification": [
+        "ưerwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7670,
+      "name": "abc",
+      "email": "a2002@gmail.com",
+      "password": "",
+      "phone": "08575",
+      "birthday": "11-11-2002",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7671,
+      "name": "abcdefg",
+      "email": "bruh32123@gmail.com",
+      "password": "",
+      "phone": "0901468145",
+      "birthday": "1999-10-31",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/19-12-2024-04-48-00-spmoi_img_4.png",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7672,
+      "name": "le viet minh",
+      "email": "rwerwrwrewergmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-06",
+      "avatar": "",
+      "gender": true,
+      "role": "werw",
+      "skill": [
+        "ửewrew"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7673,
+      "name": "le viet minh",
+      "email": "qưeqeqeqe.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-06",
+      "avatar": "",
+      "gender": true,
+      "role": "werw",
+      "skill": [
+        "ửewrew"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7674,
+      "name": "string",
+      "email": "kingmepro@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "2024-12-10",
+      "avatar": "",
+      "gender": true,
+      "role": "fdaf ",
+      "skill": [
+        "ádfaf"
+      ],
+      "certification": [
+        "ádfaf"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7675,
+      "name": "ưerwrwre",
+      "email": "coolworldnoways@gmail.com",
+      "password": "",
+      "phone": "33424",
+      "birthday": "2024-12-08T17:00:00.000Z",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7676,
+      "name": "avalon02",
+      "email": "noice@gmail.com",
+      "password": "",
+      "phone": "0901468145",
+      "birthday": "1999-10-31",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/19-12-2024-08-11-42-spmoi_img_1.png",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "C#",
+        "SQL",
+        "CSS",
+        "HTML",
+        "React"
+      ],
+      "certification": [
+        "lorem"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7677,
+      "name": "triet1999",
+      "email": "bro123@gmail.com",
+      "password": "",
+      "phone": "0901468145",
+      "birthday": "1999-10-26",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/19-12-2024-08-33-58-bgxucxac.jpg",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "C#",
+        "SQL",
+        "CSS",
+        "HTML",
+        "React"
+      ],
+      "certification": [
+        "lorem ipsum dolor"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7697,
+      "name": "ưerwerwr",
+      "email": "sdfsfsfd@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": false,
+      "role": "wer",
+      "skill": [
+        "ưerwewr"
+      ],
+      "certification": [
+        "ưerwrewer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7698,
+      "name": "ưerwre",
+      "email": "wwr@gmail.com",
+      "password": "",
+      "phone": "24234234",
+      "birthday": "2024-12-17",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwer",
+      "skill": [
+        "ưerwer"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7699,
+      "name": "ửewrwre",
+      "email": "sdfsfdsf@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-17",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwerwr",
+      "skill": [
+        "ưerwre"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7700,
+      "name": "ửewrwre",
+      "email": "ưerwerwerwre@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2024-12-17",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwerwr",
+      "skill": [
+        "ưerwre"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7701,
+      "name": "ửewrwre",
+      "email": "dsfsfsfsfsf@gmail.com",
+      "password": "",
+      "phone": "3242424",
+      "birthday": "2024-12-17",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwerwr",
+      "skill": [
+        "ưerwre"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7702,
+      "name": "ưerwrwrwr",
+      "email": "ewrwrwr@gmail.com",
+      "password": "",
+      "phone": "342424",
+      "birthday": "",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "ưewerwre"
+      ],
+      "certification": [
+        "ưerwrwrwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7703,
+      "name": "ưerwrwrwr",
+      "email": "prodagagag@gmail.com",
+      "password": "",
+      "phone": "342424",
+      "birthday": "2024-12-09",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "sdfsfsfsf"
+      ],
+      "certification": [
+        "ưerwrwrwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7704,
+      "name": "ưerwrwrwr",
+      "email": "proagag@gmail.com",
+      "password": "",
+      "phone": "342424",
+      "birthday": "2024-12-09",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "sdfsfsfsf"
+      ],
+      "certification": [
+        "ưerwrwrwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7706,
+      "name": "le viet minh",
+      "email": "sdssdsd@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-09",
+      "avatar": "",
+      "gender": true,
+      "role": "ưewr",
+      "skill": [
+        "ửewerwr"
+      ],
+      "certification": [
+        "ưerwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7707,
+      "name": "ẻtwarr",
+      "email": "1234@gmail.com",
+      "password": "",
+      "phone": "2342424",
+      "birthday": "2024-12-05",
+      "avatar": "",
+      "gender": true,
+      "role": "ưerwr",
+      "skill": [
+        "ửewre"
+      ],
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7708,
+      "name": "Minh Le viet",
+      "email": "234@gmail.com",
+      "password": "",
+      "phone": "1231123",
+      "birthday": "2024-12-04",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "123123"
+      ],
+      "certification": [
+        "wre"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7710,
+      "name": "ưerwwe",
+      "email": "aaaaaa@gmail.com",
+      "password": "",
+      "phone": "2324",
+      "birthday": "2024-12-11",
+      "avatar": "",
+      "gender": true,
+      "role": "wewe",
+      "skill": [
+        "ưeww"
+      ],
+      "certification": [
+        "ưerwrwrwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7711,
+      "name": "ưerwerwr",
+      "email": "aaaaaadf@gmail.com",
+      "password": "",
+      "phone": "23232323",
+      "birthday": "2024-12-05",
+      "avatar": "",
+      "gender": true,
+      "role": "ửewrew",
+      "skill": [
+        "ưewr"
+      ],
+      "certification": [
+        "ưerwer"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7712,
+      "name": "wre",
+      "email": "rwwrwrwr@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-10",
+      "avatar": "",
+      "gender": true,
+      "role": "Admin",
+      "skill": [
+        "ưewrw"
+      ],
+      "certification": [
+        "ưerwerwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7713,
+      "name": "le viet minh",
+      "email": "admin12345@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2024-12-12",
+      "avatar": "",
+      "gender": true,
+      "role": "23424",
+      "skill": [
+        "ưerwer"
+      ],
+      "certification": [
+        "ưerwrwrwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7714,
+      "name": "admin",
+      "email": "admin1223455@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "ưewer"
+      ],
+      "certification": [
+        "ưerwerwr"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7715,
+      "name": "string",
+      "email": "adminpro@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7717,
+      "name": "phucadmin",
+      "email": "southstore@gmail.com",
+      "password": "",
+      "phone": "39624419",
+      "birthday": "2023-08-18",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "REACT",
+        "CSS",
+        "ANT",
+        "MUI"
+      ],
+      "certification": [
+        "CYBERSOFT",
+        "TECHX",
+        "X",
+        "XN"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7718,
+      "name": "long",
+      "email": "toan123@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "2025-01-06",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7719,
+      "name": "MiPhat",
+      "email": "phannguyenminhphat@gmail.com",
+      "password": "",
+      "phone": "0703114632",
+      "birthday": "1999-08-10",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7720,
+      "name": "Văn Thị Quỳnh Giao",
+      "email": "giaovan99@gmail.com",
+      "password": "",
+      "phone": "0328807242",
+      "birthday": "20-01-2025",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [
+        "6"
+      ],
+      "certification": [
+        "123"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7724,
+      "name": "user2122",
+      "email": "t@gmail.com",
+      "password": "",
+      "phone": "1333",
+      "birthday": "2001-01-22",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "csdsc"
+      ],
+      "certification": [
+        "calme"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7725,
+      "name": "user",
+      "email": "1@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "24/02/2004",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7726,
+      "name": "Phát",
+      "email": "c1@gmail.com",
+      "password": "",
+      "phone": "0369753861",
+      "birthday": "04-01-2022",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "3"
+      ],
+      "certification": [
+        "c"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7727,
+      "name": "sss",
+      "email": "rickyvu2311@gmail.com",
+      "password": "",
+      "phone": "0989051663",
+      "birthday": "2025-01-07",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7731,
+      "name": "Truong Hoang Phuc Nguyen",
+      "email": "nphuc210@gmail.com",
+      "password": "",
+      "phone": "0909002930",
+      "birthday": "2002-05-29",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [
+        "fdd"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7733,
+      "name": "minhpro123",
+      "email": "minhpro123@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "2025-01-02",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/10-01-2025-12-53-49-facebook-googlechrome2025-01-0614-49-26-ezgif.com-optimize.gif",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "s",
+        "g",
+        "s",
+        "g",
+        "s",
+        "g",
+        "e",
+        "3",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      "certification": [
+        "s",
+        ",",
+        "t",
+        ",",
+        "r",
+        ",",
+        "i",
+        ",",
+        "n",
+        ",",
+        "g",
+        ",",
+        "3",
+        ",",
+        "4",
+        ",",
+        "3",
+        ",",
+        "4",
+        ",",
+        "3",
+        ",",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7734,
+      "name": "le viet minh",
+      "email": "fwfwfwf@gmail.com",
+      "password": "",
+      "phone": "0819387193",
+      "birthday": "2025-01-15",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "123123"
+      ],
+      "certification": [
+        "êttet"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7735,
+      "name": "admin12345",
+      "email": "admin54321@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/09-01-2025-06-13-28-facebook-googlechrome2025-01-0614-49-26-ezgif.com-optimize.gif",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": null,
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7736,
+      "name": "hòa",
+      "email": "hoa123@gmail.com",
+      "password": "",
+      "phone": "0354375434",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7737,
+      "name": "Đỗ hữu Hòa",
+      "email": "hoa12345@gmail.com",
+      "password": "",
+      "phone": "0967990608",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7738,
+      "name": "Yaahahaha",
+      "email": "thuanngu@gmail.com",
+      "password": "",
+      "phone": "0344286530",
+      "birthday": "2025-10-30",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7739,
+      "name": "TestUser",
+      "email": "lepuzaruc@mailinator.com",
+      "password": "",
+      "phone": "+1 (395) 107-8125",
+      "birthday": "23/11/2002",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7740,
+      "name": "soo sun 123",
+      "email": "qudanuhiki@mailinator.com",
+      "password": "",
+      "phone": "+1 (521) 246-2741",
+      "birthday": "17-01-2025",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/13-01-2025-01-51-59-screenshot-2024-12-06-150312.png",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "SQL",
+        "Java",
+        "JavaScript"
+      ],
+      "certification": [
+        "dsd"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7741,
+      "name": "TestUser",
+      "email": "rickyvu23112002@gmail.com",
+      "password": "",
+      "phone": "111",
+      "birthday": "23/11/2002",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7742,
+      "name": "Nhi",
+      "email": "penhi3901@gmail.com",
+      "password": "",
+      "phone": "0913880760",
+      "birthday": "2002-08-08",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7743,
+      "name": "khang123",
+      "email": "khang@gmail.com",
+      "password": "",
+      "phone": "0904750778",
+      "birthday": "2025-01-02",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/23-02-2025-08-06-26-avatar_df.jpg",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7744,
+      "name": "Truong Hoang Phuc Nguyen",
+      "email": "test@gmail.com",
+      "password": "",
+      "phone": "0909002930",
+      "birthday": "2025-01-14",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Java"
+      ],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7745,
+      "name": "Vũ Duy Thành",
+      "email": "17712@student.vgu.edu.vn",
+      "password": "",
+      "phone": "123",
+      "birthday": "12311",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Python",
+        "Java",
+        "C#"
+      ],
+      "certification": [
+        "AWS"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7746,
+      "name": "Truong Hoang Phuc Nguyen",
+      "email": "123@mail.com",
+      "password": "",
+      "phone": "0909002930",
+      "birthday": "2025-02-05",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Perl",
+        "JavaScript"
+      ],
+      "certification": [
+        "IELTS"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7747,
+      "name": "Jack",
+      "email": "admintest@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7748,
+      "name": "Jack",
+      "email": "usertest@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7749,
+      "name": "cf",
+      "email": "abcg@gmail.com",
+      "password": "",
+      "phone": "0963768887",
+      "birthday": "2001-01-04",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7750,
+      "name": "string",
+      "email": "khang1@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "2003-12-08",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "zxczc"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7751,
+      "name": "string",
+      "email": "khang2@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7752,
+      "name": "haha",
+      "email": "khang3@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7753,
+      "name": "string",
+      "email": "khang10@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7754,
+      "name": "string",
+      "email": "khang11@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7755,
+      "name": "string",
+      "email": "phu1@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7756,
+      "name": "string",
+      "email": "phu111@gmail.com",
+      "password": "",
+      "phone": "string",
+      "birthday": "string",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7757,
+      "name": "Phu Nguyen",
+      "email": "phu@gmail.com",
+      "password": "",
+      "phone": "0901111222",
+      "birthday": "2003-10-19",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/10-03-2025-09-28-28-fiverr-cybersoft-image.png",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "Reactjs",
+        "Nextjs",
+        "Typescipt"
+      ],
+      "certification": [
+        "CFD",
+        "Cyber",
+        "HaHa"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7758,
+      "name": "phu",
+      "email": "phu12@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7759,
+      "name": "phu",
+      "email": "phu200@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7762,
+      "name": "phu",
+      "email": "phu500@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7763,
+      "name": "phu",
+      "email": "phu900@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7764,
+      "name": "phu",
+      "email": "phu99@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7765,
+      "name": "phu",
+      "email": "phu999@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7766,
+      "name": "phu",
+      "email": "phu9999@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7767,
+      "name": "phu",
+      "email": "phu99999@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7768,
+      "name": "phu",
+      "email": "phu90@gmail.com",
+      "password": "",
+      "phone": "0901728883",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7770,
+      "name": "Thái Đức Khoa",
+      "email": "thaiduckhoa@gmail.com",
+      "password": "",
+      "phone": "0795047613",
+      "birthday": "1997-06-13",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7771,
+      "name": "khang",
+      "email": "khang111@gmail.com",
+      "password": "",
+      "phone": "0902322222",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7772,
+      "name": "khang",
+      "email": "khang222@gmail.com",
+      "password": "",
+      "phone": "0901211112",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7773,
+      "name": "khang",
+      "email": "khang123321@gmail.com",
+      "password": "",
+      "phone": "0911112112",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7774,
+      "name": "phu",
+      "email": "phu123321@gmail.com",
+      "password": "",
+      "phone": "0909111111",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7775,
+      "name": "khang",
+      "email": "khang123@gmail.com",
+      "password": "",
+      "phone": "0311111111",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7776,
+      "name": "phuc123321@gmail.com",
+      "email": "phuc123321@gmail.com",
+      "password": "",
+      "phone": "0901111223",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7777,
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "",
+      "phone": "0245124156",
+      "birthday": "13/02/2025",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7778,
+      "name": "Tuan",
+      "email": "tuanmain01@gmail.com",
+      "password": "",
+      "phone": "0834564757",
+      "birthday": "2002-03-03",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7779,
+      "name": "PhuNguyen",
+      "email": "phutest@gmail.com",
+      "password": "",
+      "phone": "0904750778",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7780,
+      "name": "trung phu 123",
+      "email": "123phu@gmail.com",
+      "password": "",
+      "phone": "0909822134",
+      "birthday": "15/02/2025",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "certification": [
+        "CFD",
+        "Cyber",
+        "BALU"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7781,
+      "name": "phu",
+      "email": "phu123321123123123123@gmail.com",
+      "password": "",
+      "phone": "0901111111",
+      "birthday": "01/02/2025",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7782,
+      "name": "Tuan",
+      "email": "hihihehekk@gmail.com",
+      "password": "",
+      "phone": "083456457",
+      "birthday": "string",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/23-02-2025-10-39-10-background.jpg",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7783,
+      "name": "Zincent",
+      "email": "zincent@gmail.com",
+      "password": "",
+      "phone": "0707207946",
+      "birthday": "12/08/2003",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7785,
+      "name": "thanh thanh",
+      "email": "sofear003@gmail.com",
+      "password": "",
+      "phone": "0832147758",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7786,
+      "name": "tuanne",
+      "email": "tuan@gmail.com",
+      "password": "",
+      "phone": "0823416252",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7787,
+      "name": "ZIn",
+      "email": "Zin@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7788,
+      "name": "Cathleen Washington",
+      "email": "cybersoft@gmail.com",
+      "password": "",
+      "phone": "",
+      "birthday": "",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7789,
+      "name": "min",
+      "email": "haohaon@gmail.com",
+      "password": "",
+      "phone": "0707207946",
+      "birthday": "12/08/2003",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7794,
+      "name": "Tuan",
+      "email": "hehe@gmail.com",
+      "password": "",
+      "phone": "0834564757",
+      "birthday": "2002-03-03",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Reactjs"
+      ],
+      "certification": [
+        "AWS"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7802,
+      "name": "Tuannnn",
+      "email": "tuan12232332@gmail.com",
+      "password": "",
+      "phone": "0834564757",
+      "birthday": "2002-03-03",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/28-02-2025-09-56-17-hihi.jpg",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "ReactJS NextJs"
+      ],
+      "certification": [
+        "CyberSoft"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7803,
+      "name": "Phát",
+      "email": "trumhacker2109@gmail.com",
+      "password": "",
+      "phone": "0369753861",
+      "birthday": "12-02-2025",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7804,
+      "name": "phat",
+      "email": "e",
+      "password": "",
+      "phone": "0369753861",
+      "birthday": "1231",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "string"
+      ],
+      "certification": [
+        "string"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7806,
+      "name": "Lâm Thế Vinh",
+      "email": "lamthezinh2003@gmail.com",
+      "password": "",
+      "phone": "0707207946",
+      "birthday": "2003-12-08",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        "CSS",
+        "React"
+      ],
+      "certification": [
+        "HTML",
+        "alw"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7814,
+      "name": "Daniel Clemons",
+      "email": "abcd@gm.com",
+      "password": "",
+      "phone": "0936374374",
+      "birthday": "24-02-2025",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7815,
+      "name": "Reuben Bryan",
+      "email": "qicy@mailinator.com",
+      "password": "",
+      "phone": "0956454544",
+      "birthday": "2005-07-18",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7816,
+      "name": "phu",
+      "email": "mababu@gmail.com",
+      "password": "",
+      "phone": "0901111111",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7817,
+      "name": "goku",
+      "email": "goku@gmail.com",
+      "password": "",
+      "phone": "0332221112",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7818,
+      "name": "phu",
+      "email": "phuad@gmail.com",
+      "password": "",
+      "phone": "0901111111",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": false,
+      "role": "ADMIN",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7819,
+      "name": "Duc Tin",
+      "email": "nguyencongduc0106@gmail.com",
+      "password": "",
+      "phone": "0762124343",
+      "birthday": "19-03-2025",
+      "avatar": "",
+      "gender": false,
+      "role": "USER",
+      "skill": null,
+      "certification": null,
+      "bookingJob": []
+    },
+    {
+      "id": 7820,
+      "name": "phuc",
+      "email": "phuctest@gmail.com",
+      "password": "",
+      "phone": "0901111222",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7828,
+      "name": "trung phu",
+      "email": "phuadmin@gmail.com",
+      "password": "",
+      "phone": "0909111233",
+      "birthday": "01/01/2000",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/03-03-2025-01-13-08-screenshot-2025-02-24-212615.png",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [
+        ""
+      ],
+      "certification": [
+        ""
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7829,
+      "name": "phu nguyen",
+      "email": "phudemoadmin@gmail.com",
+      "password": "",
+      "phone": "0901122112",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "HTMM",
+        "COS"
+      ],
+      "certification": [
+        "CFD",
+        "HTML "
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7830,
+      "name": "trung phu",
+      "email": "phudemo2003@gmail.com",
+      "password": "",
+      "phone": "0904750667",
+      "birthday": "19/10/2003",
+      "avatar": "http://fiverrnew.cybersoft.edu.vn/avatar/07-03-2025-01-41-43-avatar_df.jpg",
+      "gender": false,
+      "role": "USER",
+      "skill": [
+        "TS",
+        "Nextjs",
+        "HTML"
+      ],
+      "certification": [
+        "Cyber",
+        "CFD"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7832,
+      "name": "phu admin 19",
+      "email": "phuadmin2003@gmail.com",
+      "password": "",
+      "phone": "0904755669",
+      "birthday": "19/10/2003",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "Html",
+        "Css",
+        "js",
+        "scss"
+      ],
+      "certification": [
+        "CFD",
+        "Cybersoft",
+        "haha"
+      ],
+      "bookingJob": []
+    },
+    {
+      "id": 7833,
+      "name": "trung phu",
+      "email": "phuadmin1910@gmail.com",
+      "password": "",
+      "phone": "0904750778",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "ADMIN",
+      "skill": [],
+      "certification": [],
+      "bookingJob": []
+    },
+    {
+      "id": 7835,
+      "name": "Thanh Tuan",
+      "email": "tuansofear003@gmail.com",
+      "password": "",
+      "phone": "0834564757",
+      "birthday": "01/01/2000",
+      "avatar": "",
+      "gender": true,
+      "role": "USER",
+      "skill": [
+        "ReactJS"
+      ],
+      "certification": [
+        "Frontend Backend"
+      ],
+      "bookingJob": []
+    }
+  ],
+  "dateTime": "2025-03-14T22:55:48.058182+07:00"
+}
