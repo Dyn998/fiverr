@@ -58,7 +58,7 @@ const Hero = () => {
           {/* Right Section - Image */}
           <div className="col-md-6 text-center position-relative">
             <img
-              src="/images/hero1.png"
+              src="/fiverr/images/hero1.png"
               alt="Gabrielle, Video Editor"
               className="img-fluid"
               style={{
