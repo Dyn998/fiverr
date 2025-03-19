@@ -88,7 +88,7 @@ const JobListingPage = () => {
 
   return (
     <div className="container mt-4">
-      <h2 className="fw-bold">Results for "{searchTerm}"</h2>
+      <h2 className="fw-bold big-text">Results for "{searchTerm}"</h2>
 
       {loading ? (
         <p>Loading...</p>

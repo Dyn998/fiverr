@@ -7,22 +7,22 @@ const services = [
   {
     title: "Logo Design",
     subtitle: "Build your brand",
-    img: "/public/images/LOGO.jpeg",
+    img: "/images/LOGO.jpeg",
   },
   {
     title: "WordPress",
     subtitle: "Customize your site",
-    img: "/public/images/Word Press.jpeg",
+    img: "/images/Word Press.jpeg",
   },
   {
     title: "Voice Over",
     subtitle: "Share your message",
-    img: "/public/images/voice-over.jpg",
+    img: "/images/voice-over.jpg",
   },
   {
     title: "Social Media",
     subtitle: "Reach more customers",
-    img: "/public/images/Social Media.jpeg",
+    img: "/images/Social Media.jpeg",
   },
 ];
 

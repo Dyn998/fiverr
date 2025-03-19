@@ -11,7 +11,7 @@ const testimonials = [
     company: "rooted",
     quote:
       "It's extremely exciting that Fiverr has freelancers from all over the world—it broadens the talent pool. One of the best things about Fiverr is that while we’re sleeping, someone’s working.",
-    img: "/public/images/6 Freelance Jobs To Make $50+ An Hour In 2024.jpeg", // Link ảnh
+    img: "/images/6 Freelance Jobs To Make $50+ An Hour In 2024.jpeg", // Link ảnh
   },
   {
     name: "John Doe",
@@ -19,7 +19,7 @@ const testimonials = [
     company: "TechStart",
     quote:
       "Fiverr provides amazing opportunities for freelancers. We found top talent for our project quickly and efficiently.",
-    img: "/public/images/Free Photo _ Freelance woman working with laptop in coffee shop.jpeg", // Link ảnh khác
+    img: "/images/Free Photo _ Freelance woman working with laptop in coffee shop.jpeg", // Link ảnh khác
   },
 ];
 
@@ -38,7 +38,7 @@ const Testimonial = () => {
               {/* Phần ảnh bên trái */}
               <div className="testimonial-image">
                 <img
-                  src={testimonial.img}
+                  src={`/fiverr${testimonial.img}`}
                   alt="Testimonial"
                   className="img-fluid rounded"
                 />

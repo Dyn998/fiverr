@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import rewriteAll from 'vite-plugin-rewrite-all';
 
 export default defineConfig({
-  base: '/fiverr/', // Thay 'fiverr' bằng tên repository của bạn
-  build: {
-    outDir: 'dist',
-  },
+  plugins: [react(), rewriteAll()],
+  base: '/fiverr/', // Giữ nguyên
 });

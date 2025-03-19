@@ -10,7 +10,7 @@ const GraphicsDesign = () => {
           <p className="text-lg text-gray-700">Designs to make you stand out.</p>
           <button className="mt-4 px-6 py-2 bg-green-600 text-white rounded-lg">How Fiverr Works</button>
         </div>
-        <img src="/banner-image.png" alt="Graphics Design" className="w-1/3 rounded-lg" />
+        <img src="/fiverr/banner-image.png" alt="Graphics Design" className="w-1/3 rounded-lg" />
       </div>
 
       {/* Most Popular Categories */}

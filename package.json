@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/Dyn998/BTFV/",
+
   "scripts": {
     "dev": "vite",
     "start": "vite",
@@ -38,6 +40,7 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
-    "vite": "^6.2.0"
+    "vite": "^4.5.9",
+    "vite-plugin-rewrite-all": "^1.0.2"
   }
 }

@@ -113,7 +113,7 @@ const DigitalMarketing = () => {
             <a href="#">Storyboards</a>
           </div>
           <div className="category">
-            <img src="/public/images/Busineasn.jpeg" alt="#" />
+            <img src="/images/Busineasn.jpeg" alt="#" />
             <h3>Marketing Design</h3>
             <a href="#">Social Media Design</a>
             <a href="#">Email Design</a>

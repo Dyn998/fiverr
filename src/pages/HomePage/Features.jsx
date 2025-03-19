@@ -33,7 +33,7 @@ const Features = () => {
           <div className="col-md-6 text-center">
             <div className="position-relative">
               <video width="100%" controls>
-               <source src="/images/My_Video.mp4" type="video/mp4" />
+               <source src="/fiverr/images/My_Video.mp4" type="video/mp4" />
               </video>
               <button className="btn btn-dark rounded-circle position-absolute" style={{ top: "50%", left: "50%", transform: "translate(-50%, -50%)", width: "60px", height: "60px" }}>
                 ▶

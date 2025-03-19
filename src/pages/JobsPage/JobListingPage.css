@@ -67,9 +67,6 @@
  text-decoration: none;
 }
 
-
-
-
 .navbar input {
  width: 300px;
  height: 40px;
@@ -79,7 +76,6 @@
  border-radius: 5px;
  outline: none;
 }
-
 
 .join-btn {
  background-color: #9cc12c;
@@ -93,7 +89,6 @@
  transition: all 0.3s ease-in-out;
  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
 
 .join-btn:hover {
  background-color: #E4F1BE;
@@ -121,13 +116,9 @@
  font-weight: 500; 
 }
 
-
 .nav_bar-digital a.active {
  font-weight: bold; 
 }
-
-
-
 
 .category-btn {
  display: flex;
@@ -148,18 +139,17 @@
  text-overflow: ellipsis;
 }
 
-
 .category-logo {
  width: 24px;
  height: 24px;
  flex-shrink: 0;
 }
 
-
 .arrow-icon {
  font-size: 18px;
  flex-shrink: 0;
 }
+
 .category-grid {
  display: flex;
  justify-content: space-between;
@@ -167,23 +157,18 @@
  flex-wrap: wrap;
 }
 
-
 .category {
  flex: 1;
  margin-top: 30px;
  min-width: 200px;
 }
 
-
 .category h3 {
  text-align: left;
  font-size: 18px;
  margin-bottom: 10px;
  font-weight: bold;
-
-
 }
-
 
 .category a {
  display: block;
@@ -192,19 +177,21 @@
  padding: 5px 0;
 }
 
-
 .category a:hover {
  color: #0073e6;
  text-decoration: none;
 }
-
 
 .job .card-title {
  overflow: hidden;
  text-overflow: ellipsis;
  display: -webkit-box;
  -webkit-box-orient: vertical;
- /* -webkit-line-clamp: 2; */
  line-height: 1.5;
  max-height: 1.5*2;
+}
+.big-text {
+  all: unset;
+  font-size: 35px; 
+  font-weight: 300;
 }

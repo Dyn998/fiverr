@@ -11,14 +11,14 @@ const ProgrammingTech = () => {
     <div className="programming-tech-container">
       <nav className="breadcrumb">
         <Link to="/">Programming & Tech</Link> &gt;
-        <Link to="/categories/programming-tech">Website Builders & CMS</Link>&gt;
+        <Link to="/fiverr/categories/programming-tech">Website Builders & CMS</Link>&gt;
         <span> Full Website Creation</span>
       </nav>
 
       <div className="gig-header">
         <h1>I will do custom CSS, HTML, JavaScript, PHP coding</h1>
         <div className="seller-info">
-          <img src="/public/images/3.jpeg" alt="#" style={{ width: "50px", height: "auto" , borderRadius: "45%",objectFit: "cover"}} />
+          <img src="/images/3.jpeg" alt="#" style={{ width: "50px", height: "auto" , borderRadius: "45%",objectFit: "cover"}} />
           <span className="seller-name">noflirrazaq</span>
           <span className="review" style={{color:"#E6B779"}}>Top Rated Seller</span>
           <span className="rating">⭐⭐⭐⭐⭐ 5 (335)</span>
@@ -28,10 +28,10 @@ const ProgrammingTech = () => {
 
       <div className="gig-content">
         <div className="gig-left">
-          <img src="/public/images/cup.jpeg" alt="Gig Preview" className="gig-image" />
+          <img src="/images/cup.jpeg" alt="Gig Preview" className="gig-image" />
           <span style={{ fontWeight:"bold",margin:"10px"}}>Buyer keeping returning!</span>
           <span style={{color:"#838888"}}>noflirrazaq has an exceptional number of repeat buyers</span>
-          <video width="100%" controls style={{ marginTop: "10px", borderRadius: "10px" }}><source src="/images/MyVideo-highlight.mp4"  /></video>
+          <video width="100%" controls style={{ marginTop: "10px", borderRadius: "10px" }}><source src="/fiverr/images/MyVideo-highlight.mp4"  /></video>
           <div className="gig-description">
             <h2 style={{ fontWeight:"bold" , fontSize:"24px", paddingTop:"50px",paddingBottom:"20px"}}>About This Gig</h2>
             <p style={{ fontWeight:"bold" , fontSize:"18px", backgroundColor:"#FEEEC9",display: "inline-block"}}>Top Rated Seller with all positive reviews</p>
@@ -57,7 +57,7 @@ const ProgrammingTech = () => {
         <h2 style={{fontWeight:"bold"}}>About The Seller</h2>
         <div className="seller-info">
         <div className="seller-details">
-          <img src="/public/images/3.jpeg"alt="Seller"className="seller-image" style={{ width: "100px", height:"150px",borderRadius: "0"}}/>
+          <img src="/images/3.jpeg"alt="Seller"className="seller-image" style={{ width: "100px", height:"150px",borderRadius: "0"}}/>
           <div className="seller-text">
             <h3 style={{fontWeight:"bold"}}>noflirrazaq</h3>
             <p>Web Developer</p>

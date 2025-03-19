@@ -16,9 +16,11 @@
   border-radius: 8px;
 }
 
-h2 {
-  font-size: 24px;
+.signup-container h2 {
+  all:unset;
+  font-size: 30px;
   margin-bottom: 20px;
+  font-weight: 300;
 }
 
 form {
